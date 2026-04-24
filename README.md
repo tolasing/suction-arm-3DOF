@@ -1,2 +1,2 @@
-# cad_designs
-cad designs of all the robots that i have designed
+# suction arm
+this arm has at the end an suction pump that can pick and place flat surfaced objects
